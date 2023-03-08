@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/badge/HTML-202121?style=for-the-badge&logo=html5&logoColor=red" />
 
 
-<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DanilDuck&theme=github_dark" alt="webDev's Github stats" />
+<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DanilDuck&theme=tokyonight" alt="webDev's Github stats" />
 <table style="border: none;">
   <tr>
     <td>
