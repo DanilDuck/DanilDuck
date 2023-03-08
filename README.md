@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/badge/HTML-202121?style=for-the-badge&logo=html5&logoColor=red" />
 
 
-<table>
+<table style="border:0px">
   <tr>
     <td>
       <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=DanilDuck&theme=tokyonight" alt="webDev's Github stats" />
@@ -17,15 +17,3 @@
   </tr>
 </table>
 
-<style>
-table {
-    border-collapse: collapse;
-}
-table, th, td {
-   border: 1px solid black;
-}
-blockquote {
-    border-left: solid blue;
-    padding-left: 10px;
-}
-</style>
