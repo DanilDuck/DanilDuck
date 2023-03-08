@@ -15,4 +15,4 @@
     </td>
   </tr>
 </table>
-http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DanilDuck&theme=github_dark
+<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DanilDuck&theme=github_dark" alt="webDev's Github stats" />
