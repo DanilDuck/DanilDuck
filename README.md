@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <style>
-td, th {
+table {
    border: none!important;
 }
 </style>
