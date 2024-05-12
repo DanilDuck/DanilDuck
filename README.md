@@ -1,4 +1,8 @@
-![VT](https://github.com/DanilDuck/WebProgrammingLab4/blob/master/src/main/webapp/images/sticker.png)
+<p align="left">
+  <img width="250" height="250" src="https://github.com/DanilDuck/WebProgrammingLab4/blob/master/src/main/webapp/images/sticker.png">
+</p>
+
+
 ### Languages 
 
 
