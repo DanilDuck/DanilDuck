@@ -1,4 +1,4 @@
-
+![VT](https://github.com/DanilDuck/WebProgrammingLab4/blob/master/src/main/webapp/images/sticker.png)
 ### Languages 
 
 
