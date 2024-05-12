@@ -1,5 +1,5 @@
 ### Hi there
-<p align="center">
+<p align="left">
   <img width="100" height="100" src="https://github.com/DanilDuck/WebProgrammingLab4/blob/master/src/main/webapp/images/sticker.png">
 </p>
 
